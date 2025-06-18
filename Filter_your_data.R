@@ -1,7 +1,7 @@
 #🧹 Step 2: Filter for Subtypes (Luminal A vs Basal)
 
 # Load data from GEO
-gse <- getGEO("GSE45827", GSEMatrix = TRUE)
+gse <- getGEO("GSE", GSEMatrix = TRUE)
 data <- gse[[1]]
 
 # Extract expression and phenotype
