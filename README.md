@@ -3,8 +3,8 @@
 # Bioinformatics Pipelines in R
 
 This repository contains two basic pipelines for expression analysis in R:
-- 📊 Microarray pipeline using `limma`
-- 🧬 Single-cell RNA-seq pipeline using `Seurat`
+- 📊 Microarray pipeline
+- 🧬 Single-cell RNA-seq pipeline
 
 ---
 
